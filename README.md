@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A página de título Github Favorites é uma apicação desenvolvida durante o Stage 6 do curso Explorer da RocketSeat.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://viniciuszmota.github.io/GItFav)
 
 ---
 
